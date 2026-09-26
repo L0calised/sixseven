@@ -1,3 +1,4 @@
 {
-  "settingsPopoutWindow": true
+  "settingsPopoutWindow": true,
+  "promptDelete": false
 }
