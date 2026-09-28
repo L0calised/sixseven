@@ -18,3 +18,7 @@ https://cses.fi/problemset/task/1634
 
 Virtual Contest 
 https://codeforces.com/contest/2260/countdown
+
+28 sept - 
+https://codeforces.com/problemset/problem/2219/A
+	GRID L
