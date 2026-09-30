@@ -21,8 +21,8 @@ https://codeforces.com/contest/2260/countdown
 
 28 sept - 
 https://codeforces.com/problemset/problem/2219/A
-	GRID L
+GRID L
 
-
-[[2026-10-01]]  **End of new beginning**
+**End of new Beginning**
+[[2026-10-01]] 
 
