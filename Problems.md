@@ -26,3 +26,10 @@ https://codeforces.com/problemset/problem/2219/A
 
 [[2026-10-01]]  **End of new beginning**
 
+-+=+-
+https://codeforces.com/profile/d1vyxn5h
+i cant solve problem above 1300. i cant observer and think how to solve them 
+for example i was trying to solve https://codeforces.com/problemset/problem/2264/C this problem but i canat solve it ,and i want learn anything if i  loking at answers
+
+-=+=-
+
