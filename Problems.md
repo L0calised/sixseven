@@ -36,5 +36,11 @@ for example i was trying to solve https://codeforces.com/problemset/problem/2264
 3 oct
 MATH - commit
 
+4oct
+https://codeforces.com/contest/2264/problem/C
+- MOD problem? 
+https://codeforces.com/contest/2267/problem/D
+- good dp problem
+
 5 oct
 https://codeforces.com/contest/2252/problem/D
