@@ -43,4 +43,8 @@ https://codeforces.com/contest/2267/problem/D
 - good dp problem
 
 5 oct
-https://codeforces.com/contest/2252/problem/D
+yet to solve probl;ems
+- [ ] https://codeforces.com/contest/2252/problem/D
+- [ ] https://codeforces.com/contest/2258/problem/B2 
+
+6 oct?
