@@ -7,3 +7,5 @@ try errichto gitgood 1500 for confidence
 
 qvark
 qvarkwave
+
+https://codeforces.com/contest/1980/problem/D
