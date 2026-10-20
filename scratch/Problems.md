@@ -63,31 +63,6 @@ https://codeforces.com/problemset/problem/679/A
 14oct
 https://codeforces.com/contest/2123/problem/E
 
-
-- Arrays
-- [x] Count Subarrays with Sum K
-- [x] Container With Most Water
-- [x] Triplet with Given Sum
-- 
-- Binary Search
-- [ ] Floor and Ceil of a Value
-- [ ] Search Queries in a Rotated Array
-- 
-- Sorting
-- [ ] Count Inversions
-- [ ] Kth Smallest Using Quickselect
-- 
-- String Matching
-- [ ] Build the LPS Array
-- [ ] Count Pattern Occurrences with KMP
-- [ ] Build the Z-Array
-- 
-- Greedy
-- [x] Fractional Knapsack
-- [ ] Job Sequencing with Selected Jobs
-- 
-- Additional syllabus gaps
-- [x] Maximum Sum Subarray of Size K
-- [x] Longest Substring Without Repeating Characters
-- [ ] Rotate Array
-- [ ] Rabin–Karp Pattern Searching
+21oct? 
+https://codeforces.com/contest/2164/problem/C
+- optimal solution??
