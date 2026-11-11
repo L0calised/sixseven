@@ -137,3 +137,62 @@ cooperative  process - process that needd another proces to communicate (depende
 - 
 independent process
 
+consumer producer problem?
+diner philosopher problem?
+
+problems? -> when more then a process share memory/ share resource
+- race condition 
+- data inconsistency 
+- deadlock
+	- mutual exclusion -> process in use-others cant use it  
+	- hold and wait -> 
+	- non preemption
+	- circular wait
+	- FIX?
+		- rollback - back to previous state
+		- bankers algo?
+		- 
+	- ![[Pasted image 20261023105741.png]]
+- starvation
+- execution order can lead to incorrect output
+
+
+LECTURE 4
+- Memory Management
+- Paging 
+- Pages of ram -> frame (frame size / page size)
+- non-continuous page allocation
+- page table -> data stucture
+	- store page location 4 each page
+	- why we use logical addr rather then physical address? 
+		- not dependent on hardware
+		- allows us to have expand / change ram
+- 1 mb = 2^10 kb 
+- 1 MB = 2^20 kb 
+- 1 gb = 2^30 kb 
+
+process size/logical address
+process address space = ram size
+number of pages = las/page size
+no. of frames  = PSA/page size
+
+
+LECTURE 5
+FIFO (first in first out)
+LRU (least recently used)
+
+Q- 3 frames FIFO
+7 0 1 2 0 3 0 4 2 3 0 3 2
+
+generally in FIFO 
+- increase frames -> page fault decrease
+belady's anomaly? 
+- in some case = increase frames -> page fault also increase
+
+OPR - optimal page replacement
+- replace the page which will be used last in the future 
+- not practical - future cant be predicted for all the processes
+
+Segmentation - divide process in different segmentation, how?
+
+Process and Threads.

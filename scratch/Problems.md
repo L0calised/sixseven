@@ -66,3 +66,12 @@ https://codeforces.com/contest/2123/problem/E
 21oct? 
 https://codeforces.com/contest/2164/problem/C
 - optimal solution??
+
+2 nov
+- [ ] https://codeforces.com/contest/2067/problem/C
+- [ ] https://codeforces.com/problemset/problem/2275/D
+- [ ] https://codeforces.com/problemset/problem/2189/B
+
+8 nov
+https://codeforces.com/contest/2278/problem/e
+

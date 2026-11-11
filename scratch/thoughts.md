@@ -9,3 +9,7 @@ qvark
 qvarkwave
 
 https://codeforces.com/contest/1980/problem/D
+
+-- make spotify mod??
+- fullscreen + better lyrics 
+- 
