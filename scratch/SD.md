@@ -196,3 +196,5 @@ OPR - optimal page replacement
 Segmentation - divide process in different segmentation, how?
 
 Process and Threads.
+
+
