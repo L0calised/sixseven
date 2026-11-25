@@ -3,3 +3,5 @@ St1 syllabus
 
 st2
 [[DBMS]]
+- normalixzzation
+[[sql quries]]

@@ -60,3 +60,42 @@ Normalization?
 		- x,y -> m 
 		- x -> w
 		- y -> z
+- 3NF 
+	- No transitive dependency
+	- if 
+		- x -> y
+		- y -> z
+	- then 
+		- x -> z 
+		- should be there 
+- BCNF
+
+
+
+# SQL
+- DDL
+	- create 
+	- alter
+	- update
+		- drop or truncate difference?
+		- create indexing?
+- DML 
+	- insert
+	- update 
+	- delete
+- BCM
+	- deal with permission
+- TCL
+	- commit
+	- rollback
+	- save points
+- DQL
+	- select
+- Join
+	- inner join 
+	- outer join
+	- left outre join
+	- right outer join
+	- cross join
+	- self join
+	- 
